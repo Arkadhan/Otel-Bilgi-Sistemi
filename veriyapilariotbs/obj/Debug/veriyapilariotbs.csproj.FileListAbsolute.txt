@@ -1,0 +1,20 @@
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\bin\Debug\veriyapilariotbs.exe.config
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\bin\Debug\veriyapilariotbs.exe
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\bin\Debug\veriyapilariotbs.pdb
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\obj\Debug\veriyapilariotbs.csprojAssemblyReference.cache
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\obj\Debug\veriyapilariotbs.Form1.resources
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\obj\Debug\veriyapilariotbs.Properties.Resources.resources
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\obj\Debug\veriyapilariotbs.csproj.GenerateResource.cache
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\obj\Debug\veriyapilariotbs.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\obj\Debug\veriyapilariotbs.exe
+C:\Users\HP-PC\source\repos\veriyapilariotbs\veriyapilariotbs\obj\Debug\veriyapilariotbs.pdb
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\bin\Debug\veriyapilariotbs.exe.config
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\bin\Debug\veriyapilariotbs.exe
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\bin\Debug\veriyapilariotbs.pdb
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\obj\Debug\veriyapilariotbs.csprojAssemblyReference.cache
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\obj\Debug\veriyapilariotbs.Properties.Resources.resources
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\obj\Debug\veriyapilariotbs.Form1.resources
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\obj\Debug\veriyapilariotbs.csproj.GenerateResource.cache
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\obj\Debug\veriyapilariotbs.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\obj\Debug\veriyapilariotbs.exe
+C:\Users\HP-PC\source\repos\veriyapilariotbs - Kopya\veriyapilariotbs\obj\Debug\veriyapilariotbs.pdb
